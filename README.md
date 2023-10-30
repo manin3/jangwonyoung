@@ -1,8 +1,8 @@
 # jangwonyoung
 
 ## What are the names and NetIDs of all your team members? Who is the captain? The captain will have more administrative duties than team members.
-Manikandan Nagarathnam - mnn3
-Pascal Adhikary - pascala2
+Manikandan Nagarathnam - mnn3, 
+Pascal Adhikary - pascala2, 
 Team Captain - Pascal
 
 ## What topic have you chosen? Why is it a problem? How does it relate to the theme and to the class?
@@ -18,8 +18,8 @@ There are currently other programs that are able to estimate the amount of disli
 Python/JavaScript
 
 ## Please justify that the workload of your topic is at least 20*N hours, N being the total number of students in your team. You may list the main tasks to be completed, and the estimated time cost for each task.
-Pick videos to scrape - 1hr
-Build Comment Section Scraper - 5hr
-Perform Research and Implement NLP Algorithms - 25hr
-Testing and anticipated debugging - 5hr
-Integrate Backend code with extension - 10hr
+Pick videos to scrape - 1hr, 
+Build Comment Section Scraper - 5hr, 
+Perform Research and Implement NLP Algorithms - 25hr, 
+Testing and anticipated debugging - 5hr, 
+Integrate Backend code with extension - 10hr, 
