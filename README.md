@@ -5,7 +5,7 @@ Manikandan Nagarathnam - mnn3,
 Pascal Adhikary - pascala2, 
 Team Captain - Pascal
 
-## What topic have you chosen? Why is it a problem? How does it relate to the theme and to the class?
+##Intro/ What topic have you chosen? Why is it a problem? How does it relate to the theme and to the class?
 We have chosen Youtube Somment Sentiment Analysis, which is relevant because Youtube removed their dislikes, so it is often hard to discern whether people actually like a given video or not. We need to extract large bodies of text from the comment section of a video, and perform analysis on it to determine what sentiment it shows. 
 
 ## Briefly describe any datasets, algorithms or techniques you plan to use
@@ -16,6 +16,13 @@ There are currently other programs that are able to estimate the amount of disli
 
 ## Which programming language do you plan to use?
 Python/JavaScript
+
+## Milestones
+Nov 8 - find and scrape videos  
+Nov 13 - conduct introductory research  
+Nov 24 - implement natural language algorithms onto the  
+Dec 5 - implement and integrate algorithm with extension functionality  
+Due date - clear up any bugs  
 
 ## Please justify that the workload of your topic is at least 20*N hours, N being the total number of students in your team. You may list the main tasks to be completed, and the estimated time cost for each task.
 Pick videos to scrape - 1hr, 
