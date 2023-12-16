@@ -1,7 +1,7 @@
 # jangwonyoung
 
 # ALL PROGRESS REPORT + UPDATES + HOW TO RUN IS IN THIS README
-# VIDEO LINK
+# VIDEO LINK https://youtu.be/hJtpYf7CTBw
 
 ## What are the names and NetIDs of all your team members? Who is the captain? The captain will have more administrative duties than team members.
 Manikandan Nagarathnam - mnn3, 
