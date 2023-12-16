@@ -1,6 +1,7 @@
 # jangwonyoung
 
 # ALL PROGRESS REPORT + UPDATES + HOW TO RUN IS IN THIS README
+# VIDEO LINK
 
 ## What are the names and NetIDs of all your team members? Who is the captain? The captain will have more administrative duties than team members.
 Manikandan Nagarathnam - mnn3, 
@@ -40,5 +41,17 @@ Integrate Backend code with extension - 10hr,
 
 ## Setup Instructions
 
-## Conclusion, Self Evaluation
+To run this code, please perform these steps.
+1) Clone the repo
+2) Open the python notebook in Colab
+3) Replace the API key with your google cloud youtube API key
+4) Fill the inputs text file with the youtube id's you are interested in. The videos must have commments enabled for the program to work.
+5) Pull the text file into your Colab notebook
+6) Run the code cell by cell
+7) Please also refer to the video link at the top of this file for help
 
+## Conclusion, Self Evaluation, Final Report
+
+We were able to create a final deliverable that can take any youtube video and via sentiment analysis on the youtube comments, give an estimate for the amount of dislikes.
+
+This project was really interesting because we were able to investigate and understand what was going on under the hood in a lot of the popular python libraries. Thanks to what we learned in class, we were able to actually understand the methods such as vectorization and TF-IDF at play. In addition, the real world use of APIs taught us a lot about handling the response data. Initially, we wanted to make this an extension, but due to Chrome's strict rules on developers and uploading to the web store we were unable to within the class's time frame.
