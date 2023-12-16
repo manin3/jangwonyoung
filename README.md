@@ -37,3 +37,8 @@ Integrate Backend code with extension - 10hr,
 1) Completed Tasks: We developed a comment scraping program that's capable of taking a file containing youtube video ids and scraping the comments of each of the associated videos. We then write each of the video's comments into a csv to store and later use. We have also started to conduct research into how we're going to perform sentiment analysis, but have yet to implement them.
 2) The main tasks that are pending are to implement our natural language algorithms, package everything we have into an extension format, and bug test.
 3) The first part of this project has been relatively easy, but we expect to face much more challenges when implementing our algorithms and when trying to put it into an extension, as this is something neither of us has very much experience in.
+
+## Setup Instructions
+
+## Conclusion, Self Evaluation
+
